@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HugoKirch
-- 📚 Student @ Epitech
+- 📚 Student @Epitech
 - 👨‍💻 Currently working @ Stef-Metz
 
 <!---
