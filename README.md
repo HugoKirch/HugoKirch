@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoKirch
 - 📚 Student @Epitech
-- 👨‍💻 Currently working @ Stef-Metz
+- 👨‍💻 Currently working @Stef-Metz
 
 <!---
 HugoKirch/HugoKirch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
