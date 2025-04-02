@@ -8,10 +8,10 @@ Based in Nancy, France, I am currently a student at Epitech, focusing on softwar
 
 ## Skills & Technologies
 
-c,py,nodejs,js,html,css,vue,nuxtjs,ts,tailwind,prisma,mysql,postgres,docker,bash,linux,arch,kubernetes,nginx,git,githubactions,github,gitlab
+[![My Skills](https://skillicons.dev/icons?i=c,py,nodejs,js,html,css,vue,nuxtjs,ts,tailwind,prisma,mysql,postgres,docker,bash,linux,arch,kubernetes,nginx,git,githubactions,github,gitlab&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [Portfolio](https://github.com/HugoKirch/Portfolio): Portfolio de projets personnels / d'entreprise / de l'école. **Stars:** 0, **Language:** TypeScript
-- [samsung-galaxybook-hyprland-scripts](https://github.com/HugoKirch/samsung-galaxybook-hyprland-scripts): Scripts to optimize my Samsung Galaxy Book with Hyprland. **Stars:** 0, **Language:** Shell
-- [abstractVM](https://github.com/HugoKirch/abstractVM): A simple virtual machine implementation. **Stars:** 1, **Language:** C++
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=HugoKirch&repo=Portfolio&theme=dark)](https://github.com/HugoKirch/Portfolio)
+[![samsung-galaxybook-hyprland-scripts](https://github-readme-stats.vercel.app/api/pin/?username=HugoKirch&repo=samsung-galaxybook-hyprland-scripts&theme=dark)](https://github.com/HugoKirch/samsung-galaxybook-hyprland-scripts)
+[![abstractVM](https://github-readme-stats.vercel.app/api/pin/?username=HugoKirch&repo=abstractVM&theme=dark)](https://github.com/HugoKirch/abstractVM)
